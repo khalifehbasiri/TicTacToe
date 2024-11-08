@@ -41,7 +41,7 @@ public class GamePopUp extends JWindow
 	setVisible(true); // Make splash screen visible
 	    
 	try {
-            Thread.sleep(5000); // Let splash screen be visible for 5000ms 
+            Thread.sleep(2000); // Let splash screen be visible for 5000ms 
 	}
         catch (InterruptedException e) {
         }
